@@ -1,0 +1,4 @@
+﻿name: openrasta-container-testsuite
+depends: openwrap anchored content
+depends: openrasta-core
+depends: nunit
